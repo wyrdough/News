@@ -1,6 +1,15 @@
 {
     "articles": [
         {
+            "md": "0033_setlists.md",
+            "type": "announcement",
+            "title": "Find Venues in the Launcher",
+            "thumb": "yarg.webp",
+            "authors": [ "wyrdough" ],
+            "release": "2025-09-01T19:11:00.123Z",
+            "category": "venue"
+        }
+        {
             "md": "0032_yarg-0.13.0",
             "type": "update",
             "title": "YARG v0.13.0",
