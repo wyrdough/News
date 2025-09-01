@@ -1,7 +1,7 @@
 {
     "articles": [
         {
-            "md": "0033_setlists.md",
+            "md": "0033_setlists",
             "type": "announcement",
             "title": "Find Venues in the Launcher",
             "thumb": "yarg.webp",
