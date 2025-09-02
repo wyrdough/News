@@ -2,6 +2,18 @@
     "articles": [
         {
             "type": "update",
+            "title": "More Venues!",
+            "banner": "generic.webp",
+            "authors": [
+                "wyrdough"
+            ],
+            "release": "2025-09-02T04:08:13.093496+00:00",
+            "thumb": "yarg.webp",
+            "category": "venue",
+            "md": "0035_new-venues"
+        },
+        {
+            "type": "update",
             "title": "Some news, somewhat automated",
             "banner": "generic.webp",
             "authors": [
