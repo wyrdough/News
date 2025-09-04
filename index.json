@@ -2,6 +2,42 @@
     "articles": [
         {
             "type": "update",
+            "title": "Venue Support in the Setlist",
+            "banner": "generic.webp",
+            "authors": [
+                "frickitickitavi"
+            ],
+            "release": "2025-09-04T17:02:41.057515+00:00",
+            "thumb": "setlist.webp",
+            "category": "setlist_official",
+            "md": "0038_setlist-venues"
+        },
+        {
+            "type": "update",
+            "title": "Fancy Graphics!",
+            "banner": "generic.webp",
+            "authors": [
+                "grishhung"
+            ],
+            "release": "2025-09-04T17:01:58.985003+00:00",
+            "thumb": "yarg.webp",
+            "category": "yarg",
+            "md": "0037_graphics"
+        },
+        {
+            "type": "announcement",
+            "title": "New Team",
+            "banner": "generic.webp",
+            "authors": [
+                "Hubbubble"
+            ],
+            "release": "2025-09-04T16:58:35.709814+00:00",
+            "thumb": "yarg.webp",
+            "category": "yarg",
+            "md": "0036_team"
+        },
+        {
+            "type": "update",
             "title": "More Venues!",
             "banner": "generic.webp",
             "authors": [
